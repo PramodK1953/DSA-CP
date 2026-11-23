@@ -1,0 +1,2 @@
+Hello from C++! You entered: 123454
+ You entered: 23246
